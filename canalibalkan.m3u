@@ -48,13 +48,13 @@ https://vpn.komtel.ba/hls/mylivestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png", Belle Amie
 http://92.60.238.10:1935/live/belleamie/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-extra-hd.png", FilmBox Extra
+#EXTINF:-1 tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCAQQIBC/1025-filmbox-extra-hd.png", FilmBox Extra
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
 
 #EXTINF:-1 tvg-logo="", FilmBox Premium
 https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
 
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/FilmboxStarsBlack-www.png", FilmBox Stars
+#EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/filmbox-stars.png", FilmBox Stars
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir
