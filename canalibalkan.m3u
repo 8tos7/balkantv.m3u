@@ -98,3 +98,6 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Super_tv_logo_300dpi.jpg/1280px-Super_tv_logo_300dpi.jpg", Super TV
 https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RTV_Herceg-Bosne_Logo.jpg", RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
