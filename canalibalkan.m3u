@@ -30,11 +30,8 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
 https://edge8.pink.rs/pinktv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK RED
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/RedTV-Srbija-Logo.png",PINK RED
 https://edge8.pink.rs/redtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y3F6QYq/Piknl.png",PI KANAL
-https://stream.pikanal.rs/pikanal/pgm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 SRB
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
@@ -81,7 +78,7 @@ http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CG44YT3.png", RTV 1 (net)
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", RTV Zenica (net)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png", RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
 
 #EXTINF:-1 tvg-logo="", Red (net)
