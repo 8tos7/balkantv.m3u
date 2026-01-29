@@ -10,7 +10,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 Hrvatska
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png",TELEVIZIJA M
 https://live.tv-m.net/hls/stream.m3u8
@@ -24,8 +24,8 @@ http://23.88.66.93/OBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VrZL7Wg/rtrs.png",RTRS TV
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 BOS
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 Bosna i Hercegovina 2
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
 https://edge8.pink.rs/pinktv/index.m3u8
@@ -34,7 +34,7 @@ https://edge8.pink.rs/pinktv/index.m3u8
 https://edge8.pink.rs/redtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png",N1 Srbija
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prBJLBsD/rtvkragujevac.png",RTV KRAGUJEVAC
 https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
@@ -54,17 +54,14 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
 #EXTINF:-1 tvg-logo="", FilmBox Premium
 https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/filmbox_stars_wide.png", FilmBox Stars
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/FilmboxStarsBlack-www.png", FilmBox Stars
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72oMSWz.png", N1 HR
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nova_TV_Croatia_logo.png", Nova TV
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ugnFa3.png", Pi Kanal
 http://stream.pikanal.rs/pikanal/pgm.m3u8
